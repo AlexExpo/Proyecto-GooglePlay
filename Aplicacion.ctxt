@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=nombre\ tamano\ categoria
+comment0.target=Aplicacion(java.lang.String,\ double,\ Categoria)
+comment1.params=
+comment1.target=java.lang.String\ getNombre()
+comment2.params=
+comment2.target=double\ getTamanoEnMB()
+comment3.params=
+comment3.target=java.lang.String\ getCategoria()
+numComments=4

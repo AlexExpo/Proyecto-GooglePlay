@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=titulo\ anoDeCreacion\ minutosDeDuracion\ calidad
+comment0.target=Pelicula(java.lang.String,\ int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getDuracion()
+comment2.params=
+comment2.target=java.lang.String\ getCalidad()
+numComments=3

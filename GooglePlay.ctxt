@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GooglePlay()
+comment1.params=
+comment1.target=int\ getNumeroUsuarios()
+comment2.params=
+comment2.target=int\ getNumeroProductos()
+comment3.params=usuario
+comment3.target=void\ addUsuario(Usuario)
+comment4.params=producto
+comment4.target=void\ addProducto(Producto)
+numComments=5
