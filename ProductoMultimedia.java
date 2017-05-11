@@ -4,7 +4,7 @@ public abstract class ProductoMultimedia extends Producto
     
     private String titulo;
     
-    private int anoDeCreacion;
+    protected int anoDeCreacion;
     
     public ProductoMultimedia(String titulo, int anoDeCreacion)
     {
@@ -21,5 +21,7 @@ public abstract class ProductoMultimedia extends Producto
     {
         return anoDeCreacion;
     }
+
+	abstract double getPrecio();
     
 }

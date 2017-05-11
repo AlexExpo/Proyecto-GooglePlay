@@ -1,11 +1,10 @@
 
 public abstract class Producto
 {
+	protected double precio;
 
+	abstract double getPrecio();
 
-    public Producto()
-    {
-        
-    }
+	abstract String getIdentificador();
 
 }
