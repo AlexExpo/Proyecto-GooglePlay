@@ -53,10 +53,11 @@ public class GooglePlay
 						importe = listaProductos.get(contador2).getPrecio();
 						buscando = false;
 						if (listaProductos.get(contador2) instanceof Aplicacion) {
-							listaProductos.get(contador2).aumentarNumeroDeVentas();
+							((Aplicacion) listaProductos.get(contador2)).aumentarNumeroDeVentas();
 						}
 					}
 				}
+				buscando = false;
 			}
 		}
         

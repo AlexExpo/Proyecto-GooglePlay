@@ -24,6 +24,7 @@ public  class Aplicacion extends Producto
         this.tamano = tamano;
         this.categoria = categoria;
 		precio = PRECIO_BASE_APLICACIONES;
+		numeroDeVentas = 0;
     }
 
     public String getNombre()
